@@ -42,4 +42,8 @@ To properly read stocks, you must first understand what each column in the stock
 * Upper Shadow: The vertical line between the high of the day and the close (bullish candle) or open (bearish candle) 
 * Real Body: The difference between the open and close; colored portion of the candlestick 
 * Lower Shadow: The vertical line between the low of the day and the open (bullish candle) or close (bearish candle)
+
 [Read more here](https://commodity.com/technical-analysis/candlestick-basics/)
+
+#### Sample result.
+<a href="url"><img src="https://github.com/RocqJones/financial-stock-market-app/blob/master/imgs/plot.png" height="400" width="auto" ></a>
