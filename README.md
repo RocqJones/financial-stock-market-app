@@ -1,5 +1,7 @@
-# financial-stock-market-app
+# [Financial-stock-market-app](https://rocqjones.github.io/stockmarketapp.github.io/)
 Stock Market Analysis with Python
+
+* Link: https://rocqjones.github.io/stockmarketapp.github.io/
 
 ## Overview.
 Getting stock market data via Python, so without having to browse and download files from websites.
